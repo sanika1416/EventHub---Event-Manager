@@ -1,8 +1,8 @@
-# EventHub---Event-Manager
-EventHub is an event management application for organizing, managing, and tracking events. 
-# Event Manager
+# EventHub — Event Manager
 
-An event management application designed to help users organize, manage, and keep track of events.
+EventHub is an event management application for organizing, managing, and tracking events.
+
+**Live Demo:** https://event-manager-weld.vercel.app/
 
 ## Features
 
@@ -33,13 +33,13 @@ Install the tools required by your project, such as Node.js, npm, and MongoDB if
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/event-manager.git
+   git clone https://github.com/sanika1416/EventHub---Event-Manager.git
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd event-manager
+   cd EventHub---Event-Manager
    ```
 
 3. Install dependencies in the relevant frontend and backend directories.
@@ -54,11 +54,14 @@ Install the tools required by your project, such as Node.js, npm, and MongoDB if
 
 ## Project Structure
 
-Document the actual directory structure here.
+- `client/` — Frontend application
+- `server/` — Backend application
+- `.gitignore` — Files excluded from Git tracking
+- `README.md` — Project documentation
 
 ## Environment Variables
 
-List the required variable names without exposing their values or secrets.
+List the required environment variable names without exposing their values or secrets.
 
 ## Screenshots
 
@@ -73,9 +76,8 @@ Add screenshots of the application here.
 
 ## Author
 
-Your Name
+Sanika Kumbhar
 
 ## License
 
 Choose an appropriate license if you intend to distribute the project publicly.
-
